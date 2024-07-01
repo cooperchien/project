@@ -2,7 +2,7 @@
 <script type="module">
     import Chatbot from "https://cdn.jsdelivr.net/gh/cooperchien/CooperAI@latest/dist/web.js"
     Chatbot.init({
-        chatflowid: "bc60865f-2586-47f4-b3be-702b258466fd",
-        apiHost: "https://cooperchatbot.onrender.com",
+        chatflowid: "cd60f346-8807-4901-a991-37557d17290f",
+        apiHost: "https://flowise-83zp.onrender.com",
     })
 </script>
